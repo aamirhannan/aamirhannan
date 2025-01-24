@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @aamirhannan
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C++ programming
-- 💞️ I’m looking to collaborate on open source project
-- 📫 How to reach me aamirhannan08@gmail.com
-
-<!---
-aamirhannan/aamirhannan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m a full-stack developer with a passion for building dynamic and responsive web applications.
+- 🌱 I have extensive experience working with JavaScript and its frameworks, including React and Next.js.
+- 💻 I also have proficiency in backend development using Node.js and C++.
+- 💞️ I’m eager to collaborate on open-source projects and contribute to the community.
+- 📫 You can reach me at [aamirhannansde@gmail.com](mailto:aamirhannansde@gmail.com)
